@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    margin-top: 80px;
+}
+.container {
+    border: 2px solid black;
+    width: 400px;
+    height: 400px;
+    margin: auto;
+}
+.ubah {
+    background-color: aqua;
+}
+.kotak {
+    width: 25px;
+    height: 25px;
+    margin: 10px auto;
+}
+.merah{
+    background-color: red;
+    color: blue;
+}
+.hijau{
+    background-color: green;
+}
+.biru{
+    background-color: blue;
+}
